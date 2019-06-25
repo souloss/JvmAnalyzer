@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WebLauncher",
+            "request": "launch",
+            "mainClass": "org.jvm.analyzer.web.WebLauncher",
+            "projectName": "Analyzer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppTest",
+            "request": "launch",
+            "mainClass": "org.jvm.AppTest",
+            "projectName": "Analyzer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "org.jvm.analyzer.web.HelloWorld",
+            "projectName": "Analyzer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JvmThreadInfo",
+            "request": "launch",
+            "mainClass": "org.jvm.analyzer.service.JvmThreadInfo",
+            "projectName": "Analyzer"
+        }
+    ]
+}

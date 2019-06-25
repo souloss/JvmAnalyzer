@@ -1,0 +1,52 @@
+@import '@/styles/variables.scss';
+@import '@/styles/mixin.scss';
+
+body {
+    height: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+    margin: 0px;
+}
+
+.app-container{
+  display: grid;
+  grid-template-columns: 12.5% 87.5%;
+  height: 100%;
+  // grid-template-rows: 12.5% 87.5%;
+}
+
+#app {
+  height: 100%;
+}
+
+label {
+  font-weight: 700;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  a,
+  a:focus,
+  a:hover {
+    cursor: pointer;
+    color: inherit;
+    outline: none;
+    text-decoration: none;
+  }
+
+.empty-data{
+  color: brown;
+  font-style: oblique;
+  text-align: center;
+}
