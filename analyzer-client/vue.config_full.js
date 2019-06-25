@@ -1,4 +1,5 @@
-#vue.config.js 完整默认配置
+// vue.config.js 完整默认配置
+// 该文件只是个例子文件
 module.exports = {
      // 基本路径
      baseUrl: '/',
