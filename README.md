@@ -20,7 +20,8 @@ TODO:
 
 使用说明：
 由于本程序本是作为本地库进行设计的，所以可以直接将他打包为jar，然后调用service包中的程序调用public-Api即可使用。但目前还不太完善，所以开发了一个Web-demo来对其进行展示。
-由于使用node.js环境的vue进行开发，所以如果要使用该Web-demo需要安装以下环境:
+后端的Web部分使用了较为轻量级的[spark](http://sparkjava.com/)作为Web框架，他提供了一个精简的嵌入式Web容器(Jetty)，以及简单好用的MVC-API。
+前端使用node.js环境的vue进行开发，所以如果要使用该Web-demo需要安装以下环境:
 - [node.js](https://nodejs.org/en/)
 - [vue-cli3](https://cli.vuejs.org/)
 
