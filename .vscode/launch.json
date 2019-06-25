@@ -5,6 +5,13 @@
             "name": "CodeLens (Launch) - WebLauncher",
             "request": "launch",
             "mainClass": "org.jvm.analyzer.web.WebLauncher",
+            "projectName": "analyzer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WebLauncher",
+            "request": "launch",
+            "mainClass": "org.jvm.analyzer.web.WebLauncher",
             "projectName": "Analyzer"
         },
         {
