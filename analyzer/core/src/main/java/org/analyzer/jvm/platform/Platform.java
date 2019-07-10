@@ -1,4 +1,4 @@
-package org.jvm.analyzer.platform;
+package org.analyzer.jvm.platform;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

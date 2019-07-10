@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ConsoleBuild",
+            "request": "launch",
+            "mainClass": "org.analyzer.console.core.ConsoleBuild",
+            "projectName": "console"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - WebLauncher",
             "request": "launch",
             "mainClass": "org.jvm.analyzer.web.WebLauncher",

@@ -1,4 +1,4 @@
-package org.jvm.analyzer.platform;
+package org.analyzer.jvm.platform;
 
 public class Linux implements PlatformInterface {
 
