@@ -74,9 +74,9 @@ jmx版本即是通过Java Management Extensions(Java管理扩展)实现的
 
 同时我认为他们也有很多可学习之处，通过这样一个强大而完善的同类型前辈做参考，让自己去实现一些东西，这不是一件很有趣的事情吗？
 
-值得学习：
-[Metrics](https://metrics.dropwizard.io/3.1.0)
-[VmConsole-Api](https://github.com/tzfun/VmConsole-Api)
-[线程堆栈分析](https://www.fastthread.io/index.jsp)  
+值得学习：  
+[Metrics](https://metrics.dropwizard.io/3.1.0)   
+[VmConsole-Api](https://github.com/tzfun/VmConsole-Api)  
+[线程堆栈分析](https://www.fastthread.io/index.jsp)    
 [堆分析](https://heaphero.io/)  
 [GC日志分析](https://gceasy.io/)

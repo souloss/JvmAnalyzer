@@ -13,12 +13,12 @@ buildNumber.properties
 
 #
 # IntelliJ
-#
-*.iml
+#idea
+*.imlidea
 .idea/*
 !.idea/runConfigurations/
-
-#
+.idea
+#idea
 # Visual Studio Code
 #
 .settings/
